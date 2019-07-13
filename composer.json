@@ -9,7 +9,7 @@
         }
     ],
     "autoload": {
-        "psr-4": { "lisongzhan\\mycomposer\\": "src" }
+        "psr-4": { "Lisongzhan\\Mycomposer\\": "src" }
     },
     "require": {}
 }
