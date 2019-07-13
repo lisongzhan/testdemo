@@ -9,7 +9,7 @@
         }
     ],
     "autoload": {
-        "psr-4": { "hubo123\\test\\": "src" }
+        "psr-4": { "lisongzhan\\mycomposer\\": "src" }
     },
     "require": {}
 }
