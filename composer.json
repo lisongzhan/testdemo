@@ -8,5 +8,8 @@
             "email": "lisongzhan@yeah.net"
         }
     ],
+    "autoload": {
+        "psr-4": { "hubo123\\test\\": "src" }
+    },
     "require": {}
 }
