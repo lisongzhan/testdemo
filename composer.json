@@ -1,0 +1,12 @@
+{
+    "name": "lisongzhan/mycomposer",
+    "description": "this is test",
+    "type": "project",
+    "authors": [
+        {
+            "name": "lisongzhan",
+            "email": "lisongzhan@yeah.net"
+        }
+    ],
+    "require": {}
+}
